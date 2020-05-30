@@ -1,0 +1,12 @@
+{
+    "name": "haxorsprogramming/nadha-shop",
+    "description": "Web E-Commerce project haxorsprogramming club",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Haxorsprogramming",
+            "email": "haxorsuinsu@gmail.com"
+        }
+    ],
+    "require": {}
+}
